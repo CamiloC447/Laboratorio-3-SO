@@ -1,0 +1,15 @@
+# Archivos objeto y ejecutables
+*.o
+simulator
+obj/
+
+# Archivos de salida
+out/*.json
+
+# Archivos temporales
+*~
+*.swp
+
+# IDE
+.vscode/
+.idea/
